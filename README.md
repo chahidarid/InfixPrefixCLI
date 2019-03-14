@@ -10,12 +10,15 @@ transform infix to prefix expression
 
 <!-- toc -->
 # Usage
-
+```
 yarn install
+```
+```
 ./bin/run --filePath infix.txt
+```
 
 # Example
 
-![Alt text](https://ibb.co/YBx0chG?raw=true "Title")
+![Screenshot](https://i.ibb.co/GQqHWRj/Screenshot-2019-03-14-at-19-07-45.png)
 <!-- usage -->
 
