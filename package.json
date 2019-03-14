@@ -1,0 +1,37 @@
+{
+  "name": "prefixer",
+  "description": "transform infix to prefix expression",
+  "version": "0.0.0",
+  "author": "Chahid arid @chahidarid",
+  "bin": {
+    "prefixer": "./bin/run"
+  },
+  "bugs": "https://github.com/chahidarid/prefixer/issues",
+  "dependencies": {
+    "@oclif/command": "^1",
+    "@oclif/config": "^1",
+    "@oclif/plugin-help": "^2",
+    "infix-to-prefix": "^1.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/bin",
+    "/src"
+  ],
+  "homepage": "https://github.com/chahidarid/prefixer",
+  "keywords": [
+    "oclif"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "oclif": {
+    "bin": "prefixer"
+  },
+  "repository": "chahidarid/prefixer",
+  "scripts": {
+    "test": "echo NO TESTS"
+  }
+}
