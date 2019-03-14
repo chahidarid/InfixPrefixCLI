@@ -10,14 +10,14 @@ transform infix to prefix expression
 
 <!-- toc -->
 # Usage
+Install project dependencies
 ```
 yarn install
 ```
+Run the command line with the file path
 ```
 ./bin/run --filePath infix.txt
 ```
-
-# Example
 
 ![Screenshot](https://i.ibb.co/GQqHWRj/Screenshot-2019-03-14-at-19-07-45.png)
 <!-- usage -->
