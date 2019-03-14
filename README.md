@@ -10,6 +10,12 @@ transform infix to prefix expression
 
 <!-- toc -->
 # Usage
+
+yarn install
+./bin/run --filePath infix.txt
+
+# Example
+
+![Alt text](https://ibb.co/YBx0chG?raw=true "Title")
 <!-- usage -->
-# Commands
-<!-- commands -->
+
